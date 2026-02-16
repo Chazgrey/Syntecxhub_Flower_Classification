@@ -34,7 +34,7 @@ Petal Width (cm)
 - Exploratory Data Analysis (EDA) with visualizations.
 - Multiple classification models (Decision Tree, Logistic Regression).
 - Performance evaluation using confusion matrices.
-- Model persistence with `pickle`.
+- Model persistence with `joblib`.
 - CLI-based prediction tool for batch classification.
 
 ---
