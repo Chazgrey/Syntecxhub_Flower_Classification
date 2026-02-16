@@ -47,7 +47,7 @@ Clone the repository:
 git clone https://github.com/Chazgrey/Syntecxhub_Flower_Classification.git
 cd Syntecxhub_Flower_Classification
 ```
-
+---
 ## 📊 Usage
 ### Run Jupyter Notebook
 ```bash
@@ -58,26 +58,26 @@ jupyter notebook irisclassification.ipynb
 ```bash
 python Cli_predict_iris_csv.py iris.csv
 ```
-
 This will output predicted flower classes for the dataset.
-
+---
 ## 📈 Results
 - Decision Tree and Logistic Regression models were trained and evaluated.
 - Confusion matrices show classification accuracy and misclassifications.
 - The saved model (iris_model.pkl) can be loaded for future predictions.
-
+---
 ## 🛠️ Technologies Used
 - Python
 - Scikit-learn
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
-
+---
 ## 📌 Future Improvements
 - Add more classifiers (Random Forest, SVM).
 - Implement cross-validation for robust performance metrics.
 - Build a simple web app interface for predictions.
-
+---
 ## 👤 Author
 Developed by [Chazgrey](https://github.com/Chazgrey)
-Part of the Syntecxhub initiative for applied machine learning internship.
+
+---
