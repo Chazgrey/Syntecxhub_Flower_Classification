@@ -56,7 +56,7 @@ jupyter notebook irisclassification.ipynb
 
 ### Generate Predictions via CLI
 ```bash
-python Cli_predict_iris_csv.py iris.csv
+python Cli_predict_iris_csv.py
 ```
 This will output predicted flower classes for the dataset.
 ---
